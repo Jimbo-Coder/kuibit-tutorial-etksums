@@ -14,5 +14,10 @@ Altenatively can download from UIUC dropbox link:
 ## Main Tutorial
 
 Notebook:
+On ETK LSU Tutorial server and in this repository
 
-kuibit-tutorial-etksums/notebooks/01_kuibit2026tutorial.ipynb
+/notebooks/01_kuibit2026tutorial.ipynb
+
+Slides:
+
+[Link](https://docs.google.com/presentation/d/1lBrnAZH8ntFn7UplEX4UP8N4xIZioI-4WshQKqWAJ3o/edit?usp=sharing)
